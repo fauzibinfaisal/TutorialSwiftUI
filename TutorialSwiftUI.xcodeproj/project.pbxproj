@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB076BC5256AB4A900864446 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB076BC4256AB4A900864446 /* CircleImage.swift */; };
+		EB076BC8256AB56600864446 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB076BC7256AB56600864446 /* MapView.swift */; };
 		EB127EA824ED35F500701A08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB127EA724ED35F500701A08 /* AppDelegate.swift */; };
 		EB127EAA24ED35F500701A08 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB127EA924ED35F500701A08 /* SceneDelegate.swift */; };
 		EB127EAC24ED35F500701A08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB127EAB24ED35F500701A08 /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB076BC4256AB4A900864446 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		EB076BC7256AB56600864446 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		EB127EA424ED35F500701A08 /* TutorialSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TutorialSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB127EA724ED35F500701A08 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB127EA924ED35F500701A08 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				EB127EB224ED35F500701A08 /* LaunchScreen.storyboard */,
 				EB127EB524ED35F500701A08 /* Info.plist */,
 				EB127EAF24ED35F500701A08 /* Preview Content */,
+				EB076BC4256AB4A900864446 /* CircleImage.swift */,
+				EB076BC7256AB56600864446 /* MapView.swift */,
 			);
 			path = TutorialSwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +153,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB127EA824ED35F500701A08 /* AppDelegate.swift in Sources */,
+				EB076BC5256AB4A900864446 /* CircleImage.swift in Sources */,
+				EB076BC8256AB56600864446 /* MapView.swift in Sources */,
 				EB127EAA24ED35F500701A08 /* SceneDelegate.swift in Sources */,
 				EB127EAC24ED35F500701A08 /* ContentView.swift in Sources */,
 			);

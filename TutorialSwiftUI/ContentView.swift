@@ -11,14 +11,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Tutorial SwiftUI")
+            Text("Turtle Rock")
                 .font(.title)
-                .foregroundColor(.green)
             HStack {
-                Text("First SwiftUI Hands-On")
+                Text("Joshua Tree National Park")
                     .font(.subheadline)
                 Spacer()
-                Text("Defauloper")
+                Text("California")
                     .font(.subheadline)
             }
         }
